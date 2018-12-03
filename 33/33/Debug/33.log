@@ -1,0 +1,6 @@
+﻿  33.cpp
+c:\users\pichau\source\repos\algii\33\33\33.cpp(11): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\pichau\source\repos\algii\33\33\33.cpp(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pichau\source\repos\algii\33\33\33.cpp(18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  33.vcxproj -> C:\Users\Pichau\source\repos\algII\33\Debug\33.exe
+  33.vcxproj -> C:\Users\Pichau\source\repos\algII\33\Debug\33.pdb (Full PDB)
