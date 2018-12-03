@@ -1,0 +1,6 @@
+﻿  22.cpp
+c:\users\pichau\source\repos\algii\22\22\22.cpp(16): warning C4778: 'printf' : unterminated format string '%'
+c:\users\pichau\source\repos\algii\22\22\22.cpp(16): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\pichau\source\repos\algii\22\22\22.cpp(16): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  22.vcxproj -> C:\Users\Pichau\source\repos\algII\22\Debug\22.exe
+  22.vcxproj -> C:\Users\Pichau\source\repos\algII\22\Debug\22.pdb (Full PDB)
