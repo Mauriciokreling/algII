@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  7.cpp
+c:\users\pichau\source\repos\algii\7\7\7.cpp(9): warning C4101: 'result': unreferenced local variable
+  7.vcxproj -> C:\Users\Pichau\source\repos\algII\7\Debug\7.exe
+  7.vcxproj -> C:\Users\Pichau\source\repos\algII\7\Debug\7.pdb (Full PDB)

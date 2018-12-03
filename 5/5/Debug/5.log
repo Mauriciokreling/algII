@@ -1,0 +1,7 @@
+﻿  5.cpp
+c:\users\pichau\source\repos\algii\5\5\5.cpp(12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pichau\source\repos\algii\5\5\5.cpp(13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\pichau\source\repos\algii\5\5\5.cpp(9): warning C4101: 'imp': unreferenced local variable
+c:\users\pichau\source\repos\algii\5\5\5.cpp(9): warning C4101: 'dist': unreferenced local variable
+  5.vcxproj -> C:\Users\Pichau\source\repos\algII\5\Debug\5.exe
+  5.vcxproj -> C:\Users\Pichau\source\repos\algII\5\Debug\5.pdb (Full PDB)
