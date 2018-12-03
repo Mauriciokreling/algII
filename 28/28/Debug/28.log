@@ -1,0 +1,4 @@
+﻿  28.cpp
+c:\users\aluno\source\repos\projeto_alg\aulas\28\28\28.cpp(18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  28.vcxproj -> C:\Users\Aluno\source\repos\projeto_alg\Aulas\28\Debug\28.exe
+  28.vcxproj -> C:\Users\Aluno\source\repos\projeto_alg\Aulas\28\Debug\28.pdb (Full PDB)
