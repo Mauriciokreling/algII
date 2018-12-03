@@ -1,0 +1,6 @@
+﻿  25.cpp
+c:\users\aluno\source\repos\projeto_alg\aulas\25\25\25.cpp(13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aluno\source\repos\projeto_alg\aulas\25\25\25.cpp(14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  LINK : C:\Users\Aluno\source\repos\projeto_alg\Aulas\25\Debug\25.exe not found or not built by the last incremental link; performing full link
+  25.vcxproj -> C:\Users\Aluno\source\repos\projeto_alg\Aulas\25\Debug\25.exe
+  25.vcxproj -> C:\Users\Aluno\source\repos\projeto_alg\Aulas\25\Debug\25.pdb (Full PDB)
