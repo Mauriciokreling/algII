@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  11.cpp
+c:\users\pichau\source\repos\algii\11\11\11.cpp(4): warning C4305: 'initializing': truncation from 'double' to 'float'
+  11.vcxproj -> C:\Users\Pichau\source\repos\algII\11\Debug\11.exe
+  11.vcxproj -> C:\Users\Pichau\source\repos\algII\11\Debug\11.pdb (Full PDB)
